@@ -1,0 +1,183 @@
+.myself{
+    display:flex;
+    justify-content: center;
+    width:100%;
+}
+.portrait{
+    height:100px;
+    width: 120px;
+    border:20px;
+}
+
+.fontawesome{
+    font-size:50px;
+    display:flex;
+    justify-content: center;
+    width:100%;
+}
+.fab {
+    font-family: "Font Awesome 5 Brands";
+    padding: 20px;
+    text-decoration: none;
+    color:grey;
+}
+.fa, .fas {
+    font-weight: 900;
+    padding: 20px;
+    text-decoration: none;
+    color:grey;
+}
+.menu{
+    color:grey;
+    display:flex;
+    justify-content: center;
+    padding-inline-start: 0px;
+    margin-block-start: 3em;
+    margin-block-end: 3em;
+}
+
+.item-link{
+    color:grey;
+    padding: 20px;
+    list-style:none;
+    text-decoration: none;
+}
+.underline_link{
+    color:grey;
+    padding: 20px;
+    list-style:none;
+}
+
+.legal{
+    position: relative;
+    text-align: center;
+}
+.project-pic1{
+    width: 800px;
+    height:300px;
+    margin:50px;
+}
+.item-link1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    font-size:60px;
+    font-family: Arial;
+    color:lightpink;
+}
+.process{
+    position: relative;
+    text-align: center;
+}
+.project-pic2{
+    width: 800px;
+    height:300px;
+    margin:50px;
+}
+.item-link2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    font-size:60px;
+    font-family: Arial;
+    color:lightpink;
+}
+.menu1{
+    display:flex;
+    justify-content: space-evenly;
+    width:100%;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.paintings1{
+    width:300px;
+    height:300px;
+    margin:20px;
+}
+
+.paintings2{
+    width:300px;
+    height:300px;
+    margin:20px;
+}
+.paintings3{
+    width:350px;
+    height:300px;
+    margin:20px;
+}
+
+.paintings4{
+    width:300px;
+    height:300px;
+    margin:20px;
+}
+
+.portfoliopic{
+    position:relative;
+    left:18%;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color:grey;
+}
+.designer{
+    display:flex;
+    justify-content: center;
+}
+.self-pic{
+    left:30%;
+    width:400px;
+    height:345px;
+    padding:100px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    color:grey;
+}
+.selfintro{
+    font-size: 18px;
+    font-weight: bold;
+    color:grey;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+.jam{
+    display:flex;
+    justify-content: center;
+}
+.fun1{
+    width:500px;
+    height:370px;
+}
+.sport{
+    display:flex;
+    justify-content: center;
+}
+.fun2{
+    width:500px;
+    height:500px;
+}
+.bar{
+    display:flex;
+    justify-content: center;
+}
+.fun3{
+    width:500px;
+    height:370px;
+}
+footer{
+    max-width: 980px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding:100px;
+}
